@@ -1,7 +1,5 @@
 import streamlit as st
 
-import langchain_community
-
 from langchain_community.document_loaders import WebBaseLoader
 
 from langchain_community.vectorstores import Chroma
