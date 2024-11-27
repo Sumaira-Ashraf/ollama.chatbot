@@ -1,6 +1,6 @@
 import streamlit as st
 
-!pip install langchain_community
+pip install langchain_community
 
 from langchain_community.document_loaders import WebBaseLoader
 
